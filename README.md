@@ -1,4 +1,4 @@
-# ATM
+# Adapting Testing Methodology (ATM)
 
 The Adaptive Testing Methodology (ATM) project provides context-adjusted security testing methodologies based on factors such as time available to test, platform, technology stack, plugins, modules, and other variables. The goal is to provide the most concise, customized, and accurate testing methodology possible based on available factors.
 
