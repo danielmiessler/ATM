@@ -1,10 +1,12 @@
+# Setup
+
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update Google Chrome.
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the SwitchySharp Extension in Google Chrome.
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Configure Chrome’s SwitchySharp Extension to point to Burp on localhost:8080 for all protocols.
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the Chrome BuiltWith Extension
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update BurpSuite Proxy
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Purchase and install a Burp license if you don’t already have one
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Disable the built-in Burp Collaborator functionality
+Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the SwitchySharp Extension in Google Chrome.
+Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Configure Chrome’s SwitchySharp Extension to point to Burp on localhost:8080 for all protocols.
+Universal | 4HR | 1D | 2D | UL | Install the Chrome BuiltWith Extension
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Configure Burp to save state every 30 minutes to a local directory
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Configure Burp to only passively scan in-scope content
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Configure Burp to use a 100ms delay between scan requests (with randomness)
@@ -18,6 +20,9 @@ Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the Identity Crisis Burp Ex
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the Retire.js Burp Extension
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the Site Map Fetcher Burp Extension
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the SQLiPy Burp Extension
+
+# Familiarity
+
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Browse site through Burp for 10-30 minutes
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Watch the Burp proxy traffic for every page you visit
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Note the request format (URL structure)
