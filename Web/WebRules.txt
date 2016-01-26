@@ -1,5 +1,6 @@
 # Setup
 
+Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Show for OWASP
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update Google Chrome.
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update BurpSuite Proxy
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Purchase and install a Burp license if you don’t already have one
