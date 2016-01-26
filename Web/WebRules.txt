@@ -134,7 +134,9 @@ Universal | 4HR | 1D | 2D | UL | Test sensitive functions for addition of repeat
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Full portscan of the system (assuming scope) [ nmap -sUS -p- -A -oA target $target ]
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Within the proxy traffic, look for any signs of HTTP fallback
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Check the server headers for security-oriented ones [ X-Frame-Options, Strict-Transport-Security, X-XSS-Protection, Content-Security-Policy, X-Content-Security-Policy,  etc. ] [ http://cyh.herokuapp.com/cyh ]
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Scan for use of insecure HTTP methods 
-Nginx | 1HR | 4HR | 1D | 2D | UL | Do something to Nginx.
-Apache | 4HR | 1D | 2D | UL | Do something to Apache.
-Wordpress | 30M | 1HR | 4HR | 1D | 2D | UL | Scan the site with CMSMap.
+Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Scan for use of insecure HTTP methods
+Nginx | 1HR | 4HR | 1D | 2D | UL | Nginx was detected: check Nginx vesion and look for vulnerabilities
+Express | 4HR | 1D | 2D | UL | Express was detected. Check for versions and any associated issues
+Node | 4HR | 1D | 2D | UL | Node was detected. Check for versions and any associated issues
+Apache | 4HR | 1D | 2D | UL | Apache was detected: check Apache version and look for vulnerabilities
+Wordpress | 30M | 1HR | 4HR | 1D | 2D | UL | Scan the site with CMSMap
