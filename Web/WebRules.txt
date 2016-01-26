@@ -1,6 +1,5 @@
 # Setup
 
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Show for OWASP
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update Google Chrome.
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update BurpSuite Proxy
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Purchase and install a Burp license if you don’t already have one
@@ -141,3 +140,4 @@ Express | 4HR | 1D | 2D | UL | Express was detected. Check for versions and any 
 Node | 4HR | 1D | 2D | UL | Node was detected. Check for versions and any associated issues
 Apache | 4HR | 1D | 2D | UL | Apache was detected: check Apache version and look for vulnerabilities
 Wordpress | 30M | 1HR | 4HR | 1D | 2D | UL | Scan the site with CMSMap
+SAP | 4HR | 1D | 2D | UL | Check all sensitive transaction codes.
