@@ -1,7 +1,6 @@
 # Setup
 
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update Google Chrome.
-Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Download or update BurpSuite Proxy
+Universal | 1HR | 4HR | 1D | 2D | UL | Updated for OWASP.
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Purchase and install a Burp license if you don’t already have one
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Disable the built-in Burp Collaborator functionality
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Install the SwitchySharp Extension in Google Chrome.
