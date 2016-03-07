@@ -44,6 +44,7 @@ Universal | 1HR | 4HR | 1D | 2D | UL | Discover platform using danielmiessler.co
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Find content using RobotsDisallowed (InterestingDirectories.txt)
 Universal | 4HR | 1D | 2D | UL | Find content using RobotsDisallowed (Top10000-RobotsDisallowed.txt)
 Universal | 1D | 2D | UL | Find content using RobotsDisallowed (Top100000-RobotsDisallowed.txt)
+Universal | 1D | 2D | UL | Perform Shodan search of IP range (assuming it's in scope)
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Disable form submissions in Burp's Spider settings
 Universal | 30M | 1HR | 4HR | 1D | 2D | UL | Spider the site using Burp's built-in spidering functionality
 Universal | 1HR | 4HR | 1D | 2D | UL | Run Recon-NG's discovery module [ discovery/info_disclosure/interesting_files ]
